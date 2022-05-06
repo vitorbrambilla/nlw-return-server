@@ -1,1 +1,1 @@
-## A server side of the feedback app using NodeJs, Typescript, Prisma, Sqlit and Jest.
+# A server side of the feedback app using NodeJs, Typescript, Prisma, Sqlit and Jest.
